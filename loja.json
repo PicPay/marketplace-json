@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "created_at": "2020-07-17T14:01:16.613216-03:00",
+  "updated_at": "2020-07-17T14:01:16.613216-03:00",
+  "identifier": "34e7f6ed-d19a-4c1d-b9dd-16b8735c3e46",
+  "body": {
+    "header": {
+      "type": "store_header",
+      "title": "Adidas",
+      "banner": "banner.png",
+      "avatar": "avatar.png",
+      "is_favorite": false,
+      "action": {
+        "type": "favorite",
+        "property": {
+          "favorite": {
+            "service_id": "5d16600e2c5c0f0037111d32"
+          }
+        }
+      }
+    },
+    "components": [
+      {
+        "type": "title",
+        "text": "Adidas"
+      },
+      {
+        "type": "subtitle",
+        "text": "Roupas"
+      },
+      {
+        "type": "product_card_item",
+        "items": [
+          {
+            "avatar": "avatar_produto.png",
+            "spotlight": "15% off",
+            "value": "R$ 299,00",
+            "description": "BLUZA CAPUZ TREOIL",
+            "action": {
+              "type": "open_screen",
+              "property": {
+                "navigation": {
+                  "screen_id": "screen_id"
+                }
+              }
+            }
+          },
+          {
+            "avatar": "avatar_produto.png",
+            "spotlight": "15% off",
+            "value": "R$ 299,00",
+            "description": "BLUZA CAPUZ TREOIL",
+            "action": {
+              "type": "open_screen",
+              "property": {
+                "navigation": {
+                  "screen_id": "screen_id"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "type": "subtitle",
+        "text": "Tênis"
+      },
+      {
+        "type": "product_card_item",
+        "items": [
+          {
+            "avatar": "avatar_produto.png",
+            "spotlight": "15% off",
+            "value": "R$ 549,00",
+            "description": "TÊNIS SUPERSTAR ADV X",
+            "action": {
+              "type": "open_screen",
+              "property": {
+                "navigation": {
+                  "screen_id": "screen_id"
+                }
+              }
+            }
+          },
+          {
+            "avatar": "avatar_produto.png",
+            "value": "R$ 549,00",
+            "description": "TÊNIS ULTRA4D",
+            "action": {
+              "type": "open_screen",
+              "property": {
+                "navigation": {
+                  "screen_id": "screen_id"
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "type": "subtitle",
+        "text": "Sobre"
+      },
+      {
+        "type": "markdown_text",
+        "text": "[TODO] Colar um texto do sobre"
+      },
+      {
+        "type": "button_link",
+        "label": "Saiba Mais",
+        "action": {
+          "type": "webview",
+          "property": {
+            "webview": {
+              "url": "https://cdn.picpay.com/apps/picpay/digital-goods/spotify-terms03.html"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

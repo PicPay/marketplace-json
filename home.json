@@ -1,0 +1,1766 @@
+{
+    "identifier": "STORE_HOME",
+    "version": 0,
+    "created_at": "2020-11-10T18:10:50.534Z",
+    "updated_at": "2020-11-10T18:10:50.534Z",
+    "body": {
+        "components": [
+            {
+                "text": "Destaques",
+                "type": "subtitle"
+            },
+            {
+                "items": [
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5c700bf638873600f803f731",
+                                    "name": "oi vini",
+                                    "type": "digital_good"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "5f6b4a18491a7d014310a634",
+                                    "available_in_ddds": "",
+                                    "banner_img_url": "",
+                                    "category": "services",
+                                    "created_at": "2020-09-23 10:14:00",
+                                    "cupom_fields": "<no value>",
+                                    "description": "Recarga nas operadoras Vivo, Claro, Tim, Oi, Nextel",
+                                    "description_large": "lorem ipsum",
+                                    "description_large_markdown": "",
+                                    "disclaimer_markdown": "**Importante**: para resgatar o iFood Card você precisa copiar o PIN que estará disponível para você no recibo de pagamento aqui no aplicativo, assim que concluir a compra. <br>O crédito não é reembolsável pelo PicPay. <br><br>Para resgatar o iFood Card siga as instruções: <br>1. Abra o iFood e clique em <i>Perfil</i><br>2. Acesse sua <i>Carteira</i> e toque em <i>Resgatar iFood Card</i><br>3. Cole ou digite o PIN <br>4. Pronto! O saldo estará disponível <br><br> **Validade dos créditos:** 90 dias após o resgate no iFood.",
+                                    "enabled": "true",
+                                    "identifier": "phonerecharge",
+                                    "image_url": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5c700bf56258b.png",
+                                    "info_url": "http://",
+                                    "min_version_android_integer": 905001,
+                                    "min_version_android_string": "9.5.1",
+                                    "min_version_ios_integer": 905003,
+                                    "min_version_ios_string": "9.5.3",
+                                    "name": "teste UNi",
+                                    "offline": "false",
+                                    "offline_message": "Serviço indisponível no momento, por favor tente novamente mais tarde",
+                                    "operator": "",
+                                    "order": 2,
+                                    "sales_ranking": 0,
+                                    "selection_type": "grid",
+                                    "seller_id": 1,
+                                    "service": "phonerecharges",
+                                    "show_in_search": "false",
+                                    "show_in_store": "false",
+                                    "spend_limit": 100,
+                                    "student_account": "false",
+                                    "supplier": "epay",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "ifood://movilepay/ifood_card_input?sceneTitle=Insira%20seu%20iFood%20Card",
+                                    "universal_link_ios": "ifood://movilepay/ifood_card_input?sceneTitle=Insira%20seu%20iFood%20Card",
+                                    "universal_link_title": "",
+                                    "updated_at": "2020-12-17 18:41:28"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5c700bf56258b.png",
+                        "info": {
+                            "button": "ENTENDI",
+                            "description": "oioioioi",
+                            "title": "oi vini"
+                        },
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5df7e5153a4dcd003d1864c4",
+                                    "type": "web_view"
+                                }
+                            },
+                            "property": {
+                                "webview": {
+                                    "url": "http://site.ppay.me/app_webviews/conta-universitaria/benefits.php"
+                                }
+                            },
+                            "type": "webview"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5df7e514abfea.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5c7006aa38873600c9012591",
+                                    "name": "Boletinho Boletao olha olha o cashbackão",
+                                    "type": "web_view"
+                                }
+                            },
+                            "property": {
+                                "webview": {
+                                    "url": "https://google.com"
+                                }
+                            },
+                            "type": "webview"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5c7006a9a463b.png",
+                        "info": {
+                            "button": "ENTENDI",
+                            "description": "Tolso",
+                            "title": "Boletinho Boletao olha olha o cashbackão"
+                        },
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5c781e659d3b4d1470416f31",
+                                    "name": "eeieieieiei",
+                                    "type": "financial_service"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "<no value>",
+                                    "available_in_ddds": "<no value>",
+                                    "banner_img_url": "<no value>",
+                                    "category": "<no value>",
+                                    "created_at": "<no value>",
+                                    "cupom_fields": "<no value>",
+                                    "description": "<no value>",
+                                    "description_large": "<no value>",
+                                    "description_large_markdown": "<no value>",
+                                    "disclaimer_markdown": "<no value>",
+                                    "enabled": "true",
+                                    "identifier": "<no value>",
+                                    "image_url": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5c781e646625b.png",
+                                    "info_url": "<no value>",
+                                    "min_version_android_integer": 0,
+                                    "min_version_android_string": "<no value>",
+                                    "min_version_ios_integer": 0,
+                                    "min_version_ios_string": "<no value>",
+                                    "name": "teste",
+                                    "offline": "<no value>",
+                                    "offline_message": "<no value>",
+                                    "operator": "<no value>",
+                                    "order": 0,
+                                    "sales_ranking": 0,
+                                    "selection_type": "<no value>",
+                                    "seller_id": 0,
+                                    "service": "boleto",
+                                    "show_in_search": "<no value>",
+                                    "show_in_store": "<no value>",
+                                    "spend_limit": 0,
+                                    "student_account": "<no value>",
+                                    "supplier": "<no value>",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "<no value>",
+                                    "universal_link_ios": "<no value>",
+                                    "universal_link_title": "<no value>",
+                                    "updated_at": "<no value>"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5c781e646625b.png",
+                        "info": {
+                            "button": "ENTENDI",
+                            "description": "oioioioioi",
+                            "title": "eeieieieiei"
+                        },
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5c7934849d3b4d26aa66aaf1",
+                                    "name": "oioioi2",
+                                    "type": "web_view"
+                                }
+                            },
+                            "property": {
+                                "webview": {
+                                    "url": "https://cdn.picpay.com/mail/bfh/heavy-users/12-2019/12/EXTERNALIZAR/webview2.html"
+                                }
+                            },
+                            "type": "webview"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5c793483a4c05.png",
+                        "info": {
+                            "button": "ENTENDI",
+                            "description": "oioioio2",
+                            "title": "oioioi2"
+                        },
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5db882683b0fab0040494ded",
+                                    "type": "financial_service"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "<no value>",
+                                    "available_in_ddds": "<no value>",
+                                    "banner_img_url": "<no value>",
+                                    "category": "<no value>",
+                                    "created_at": "<no value>",
+                                    "cupom_fields": "<no value>",
+                                    "description": "<no value>",
+                                    "description_large": "<no value>",
+                                    "description_large_markdown": "<no value>",
+                                    "disclaimer_markdown": "<no value>",
+                                    "enabled": "true",
+                                    "identifier": "<no value>",
+                                    "image_url": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5db8826701c23.png",
+                                    "info_url": "<no value>",
+                                    "min_version_android_integer": 0,
+                                    "min_version_android_string": "<no value>",
+                                    "min_version_ios_integer": 0,
+                                    "min_version_ios_string": "<no value>",
+                                    "name": "Teste da nicole",
+                                    "offline": "<no value>",
+                                    "offline_message": "<no value>",
+                                    "operator": "<no value>",
+                                    "order": 0,
+                                    "sales_ranking": 0,
+                                    "selection_type": "<no value>",
+                                    "seller_id": 0,
+                                    "service": "boleto",
+                                    "show_in_search": "<no value>",
+                                    "show_in_store": "<no value>",
+                                    "spend_limit": 0,
+                                    "student_account": "<no value>",
+                                    "supplier": "<no value>",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "<no value>",
+                                    "universal_link_ios": "<no value>",
+                                    "universal_link_title": "<no value>",
+                                    "updated_at": "<no value>"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5db8826701c23.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5db8919b3b0fab0044053cd6",
+                                    "type": "financial_service"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "<no value>",
+                                    "available_in_ddds": "<no value>",
+                                    "banner_img_url": "<no value>",
+                                    "category": "<no value>",
+                                    "created_at": "<no value>",
+                                    "cupom_fields": "<no value>",
+                                    "description": "<no value>",
+                                    "description_large": "<no value>",
+                                    "description_large_markdown": "<no value>",
+                                    "disclaimer_markdown": "<no value>",
+                                    "enabled": "true",
+                                    "identifier": "<no value>",
+                                    "image_url": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5db8919a20e56.png",
+                                    "info_url": "<no value>",
+                                    "min_version_android_integer": 0,
+                                    "min_version_android_string": "<no value>",
+                                    "min_version_ios_integer": 0,
+                                    "min_version_ios_string": "<no value>",
+                                    "name": "teste deletar",
+                                    "offline": "<no value>",
+                                    "offline_message": "<no value>",
+                                    "operator": "<no value>",
+                                    "order": 0,
+                                    "sales_ranking": 0,
+                                    "selection_type": "<no value>",
+                                    "seller_id": 0,
+                                    "service": "boleto",
+                                    "show_in_search": "<no value>",
+                                    "show_in_store": "<no value>",
+                                    "spend_limit": 0,
+                                    "student_account": "<no value>",
+                                    "supplier": "<no value>",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "<no value>",
+                                    "universal_link_ios": "<no value>",
+                                    "universal_link_title": "<no value>",
+                                    "updated_at": "<no value>"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5db8919a20e56.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5db8922b3b0fab003f5e61e4",
+                                    "type": "financial_service"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "<no value>",
+                                    "available_in_ddds": "<no value>",
+                                    "banner_img_url": "<no value>",
+                                    "category": "<no value>",
+                                    "created_at": "<no value>",
+                                    "cupom_fields": "<no value>",
+                                    "description": "<no value>",
+                                    "description_large": "<no value>",
+                                    "description_large_markdown": "<no value>",
+                                    "disclaimer_markdown": "<no value>",
+                                    "enabled": "true",
+                                    "identifier": "<no value>",
+                                    "image_url": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5db89229ea0ce.png",
+                                    "info_url": "<no value>",
+                                    "min_version_android_integer": 0,
+                                    "min_version_android_string": "<no value>",
+                                    "min_version_ios_integer": 0,
+                                    "min_version_ios_string": "<no value>",
+                                    "name": "SURTEI",
+                                    "offline": "<no value>",
+                                    "offline_message": "<no value>",
+                                    "operator": "<no value>",
+                                    "order": 0,
+                                    "sales_ranking": 0,
+                                    "selection_type": "<no value>",
+                                    "seller_id": 0,
+                                    "service": "boleto",
+                                    "show_in_search": "<no value>",
+                                    "show_in_store": "<no value>",
+                                    "spend_limit": 0,
+                                    "student_account": "<no value>",
+                                    "supplier": "<no value>",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "<no value>",
+                                    "universal_link_ios": "<no value>",
+                                    "universal_link_title": "<no value>",
+                                    "updated_at": "<no value>"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5db89229ea0ce.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5db8937b3b0fab0046212b42",
+                                    "type": "financial_service"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "<no value>",
+                                    "available_in_ddds": "<no value>",
+                                    "banner_img_url": "<no value>",
+                                    "category": "<no value>",
+                                    "created_at": "<no value>",
+                                    "cupom_fields": "<no value>",
+                                    "description": "<no value>",
+                                    "description_large": "<no value>",
+                                    "description_large_markdown": "<no value>",
+                                    "disclaimer_markdown": "<no value>",
+                                    "enabled": "true",
+                                    "identifier": "<no value>",
+                                    "image_url": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5db8937a05c9f.png",
+                                    "info_url": "<no value>",
+                                    "min_version_android_integer": 0,
+                                    "min_version_android_string": "<no value>",
+                                    "min_version_ios_integer": 0,
+                                    "min_version_ios_string": "<no value>",
+                                    "name": "DELETA",
+                                    "offline": "<no value>",
+                                    "offline_message": "<no value>",
+                                    "operator": "<no value>",
+                                    "order": 0,
+                                    "sales_ranking": 0,
+                                    "selection_type": "<no value>",
+                                    "seller_id": 0,
+                                    "service": "boleto",
+                                    "show_in_search": "<no value>",
+                                    "show_in_store": "<no value>",
+                                    "spend_limit": 0,
+                                    "student_account": "<no value>",
+                                    "supplier": "<no value>",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "<no value>",
+                                    "universal_link_ios": "<no value>",
+                                    "universal_link_title": "<no value>",
+                                    "updated_at": "<no value>"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5db8937a05c9f.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5db894b33b0fab0082694683",
+                                    "type": "financial_service"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "<no value>",
+                                    "available_in_ddds": "<no value>",
+                                    "banner_img_url": "<no value>",
+                                    "category": "<no value>",
+                                    "created_at": "<no value>",
+                                    "cupom_fields": "<no value>",
+                                    "description": "<no value>",
+                                    "description_large": "<no value>",
+                                    "description_large_markdown": "<no value>",
+                                    "disclaimer_markdown": "<no value>",
+                                    "enabled": "true",
+                                    "identifier": "<no value>",
+                                    "image_url": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5db894b20dadf.png",
+                                    "info_url": "<no value>",
+                                    "min_version_android_integer": 0,
+                                    "min_version_android_string": "<no value>",
+                                    "min_version_ios_integer": 0,
+                                    "min_version_ios_string": "<no value>",
+                                    "name": "deletasr",
+                                    "offline": "<no value>",
+                                    "offline_message": "<no value>",
+                                    "operator": "<no value>",
+                                    "order": 0,
+                                    "sales_ranking": 0,
+                                    "selection_type": "<no value>",
+                                    "seller_id": 0,
+                                    "service": "boleto",
+                                    "show_in_search": "<no value>",
+                                    "show_in_store": "<no value>",
+                                    "spend_limit": 0,
+                                    "student_account": "<no value>",
+                                    "supplier": "<no value>",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "<no value>",
+                                    "universal_link_ios": "<no value>",
+                                    "universal_link_title": "<no value>",
+                                    "updated_at": "<no value>"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5db894b20dadf.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5db9bfa73b0fab0040494dfa",
+                                    "type": "financial_service"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "<no value>",
+                                    "available_in_ddds": "<no value>",
+                                    "banner_img_url": "<no value>",
+                                    "category": "<no value>",
+                                    "created_at": "<no value>",
+                                    "cupom_fields": "<no value>",
+                                    "description": "<no value>",
+                                    "description_large": "<no value>",
+                                    "description_large_markdown": "<no value>",
+                                    "disclaimer_markdown": "<no value>",
+                                    "enabled": "true",
+                                    "identifier": "<no value>",
+                                    "image_url": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5db9bfa614bdd.png",
+                                    "info_url": "<no value>",
+                                    "min_version_android_integer": 0,
+                                    "min_version_android_string": "<no value>",
+                                    "min_version_ios_integer": 0,
+                                    "min_version_ios_string": "<no value>",
+                                    "name": "test ekinole",
+                                    "offline": "<no value>",
+                                    "offline_message": "<no value>",
+                                    "operator": "<no value>",
+                                    "order": 0,
+                                    "sales_ranking": 0,
+                                    "selection_type": "<no value>",
+                                    "seller_id": 0,
+                                    "service": "boleto",
+                                    "show_in_search": "<no value>",
+                                    "show_in_store": "<no value>",
+                                    "spend_limit": 0,
+                                    "student_account": "<no value>",
+                                    "supplier": "<no value>",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "<no value>",
+                                    "universal_link_ios": "<no value>",
+                                    "universal_link_title": "<no value>",
+                                    "updated_at": "<no value>"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5db9bfa614bdd.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5db9bfb83b0fab008269468b",
+                                    "type": "financial_service"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "<no value>",
+                                    "available_in_ddds": "<no value>",
+                                    "banner_img_url": "<no value>",
+                                    "category": "<no value>",
+                                    "created_at": "<no value>",
+                                    "cupom_fields": "<no value>",
+                                    "description": "<no value>",
+                                    "description_large": "<no value>",
+                                    "description_large_markdown": "<no value>",
+                                    "disclaimer_markdown": "<no value>",
+                                    "enabled": "true",
+                                    "identifier": "<no value>",
+                                    "image_url": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5db9bfb74bc1a.png",
+                                    "info_url": "<no value>",
+                                    "min_version_android_integer": 0,
+                                    "min_version_android_string": "<no value>",
+                                    "min_version_ios_integer": 0,
+                                    "min_version_ios_string": "<no value>",
+                                    "name": "wedw",
+                                    "offline": "<no value>",
+                                    "offline_message": "<no value>",
+                                    "operator": "<no value>",
+                                    "order": 0,
+                                    "sales_ranking": 0,
+                                    "selection_type": "<no value>",
+                                    "seller_id": 0,
+                                    "service": "boleto",
+                                    "show_in_search": "<no value>",
+                                    "show_in_store": "<no value>",
+                                    "spend_limit": 0,
+                                    "student_account": "<no value>",
+                                    "supplier": "<no value>",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "<no value>",
+                                    "universal_link_ios": "<no value>",
+                                    "universal_link_title": "<no value>",
+                                    "updated_at": "<no value>"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5db9bfb74bc1a.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5db9c3b63b0fab003e0fa84b",
+                                    "type": "link"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "<no value>",
+                                    "available_in_ddds": "<no value>",
+                                    "banner_img_url": "<no value>",
+                                    "category": "<no value>",
+                                    "created_at": "<no value>",
+                                    "cupom_fields": "<no value>",
+                                    "description": "<no value>",
+                                    "description_large": "<no value>",
+                                    "description_large_markdown": "<no value>",
+                                    "disclaimer_markdown": "<no value>",
+                                    "enabled": "true",
+                                    "identifier": "<no value>",
+                                    "image_url": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5db9c3b5aa5b3.png",
+                                    "info_url": "<no value>",
+                                    "min_version_android_integer": 0,
+                                    "min_version_android_string": "<no value>",
+                                    "min_version_ios_integer": 0,
+                                    "min_version_ios_string": "<no value>",
+                                    "name": "DELETA?",
+                                    "offline": "<no value>",
+                                    "offline_message": "<no value>",
+                                    "operator": "<no value>",
+                                    "order": 0,
+                                    "sales_ranking": 0,
+                                    "selection_type": "<no value>",
+                                    "seller_id": 0,
+                                    "service": "<no value>",
+                                    "show_in_search": "<no value>",
+                                    "show_in_store": "<no value>",
+                                    "spend_limit": 0,
+                                    "student_account": "<no value>",
+                                    "supplier": "<no value>",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "<no value>",
+                                    "universal_link_ios": "<no value>",
+                                    "universal_link_title": "<no value>",
+                                    "updated_at": "<no value>"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5db9c3b5aa5b3.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5dd58ab3223bad00453a9394",
+                                    "type": "financial_service"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "<no value>",
+                                    "available_in_ddds": "<no value>",
+                                    "banner_img_url": "<no value>",
+                                    "category": "<no value>",
+                                    "created_at": "<no value>",
+                                    "cupom_fields": "<no value>",
+                                    "description": "<no value>",
+                                    "description_large": "<no value>",
+                                    "description_large_markdown": "<no value>",
+                                    "disclaimer_markdown": "<no value>",
+                                    "enabled": "true",
+                                    "identifier": "<no value>",
+                                    "image_url": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5dd58ab224a1d.png",
+                                    "info_url": "<no value>",
+                                    "min_version_android_integer": 0,
+                                    "min_version_android_string": "<no value>",
+                                    "min_version_ios_integer": 0,
+                                    "min_version_ios_string": "<no value>",
+                                    "name": "kinole",
+                                    "offline": "<no value>",
+                                    "offline_message": "<no value>",
+                                    "operator": "<no value>",
+                                    "order": 0,
+                                    "sales_ranking": 0,
+                                    "selection_type": "<no value>",
+                                    "seller_id": 0,
+                                    "service": "boleto",
+                                    "show_in_search": "<no value>",
+                                    "show_in_store": "<no value>",
+                                    "spend_limit": 0,
+                                    "student_account": "<no value>",
+                                    "supplier": "<no value>",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "<no value>",
+                                    "universal_link_ios": "<no value>",
+                                    "universal_link_title": "<no value>",
+                                    "updated_at": "<no value>"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5dd58ab224a1d.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5dd58e71223bad0041490e17",
+                                    "type": "financial_service"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "<no value>",
+                                    "available_in_ddds": "<no value>",
+                                    "banner_img_url": "<no value>",
+                                    "category": "<no value>",
+                                    "created_at": "<no value>",
+                                    "cupom_fields": "<no value>",
+                                    "description": "<no value>",
+                                    "description_large": "<no value>",
+                                    "description_large_markdown": "<no value>",
+                                    "disclaimer_markdown": "<no value>",
+                                    "enabled": "true",
+                                    "identifier": "<no value>",
+                                    "image_url": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5dd58e70b1f6f.png",
+                                    "info_url": "<no value>",
+                                    "min_version_android_integer": 0,
+                                    "min_version_android_string": "<no value>",
+                                    "min_version_ios_integer": 0,
+                                    "min_version_ios_string": "<no value>",
+                                    "name": "adsdasd",
+                                    "offline": "<no value>",
+                                    "offline_message": "<no value>",
+                                    "operator": "<no value>",
+                                    "order": 0,
+                                    "sales_ranking": 0,
+                                    "selection_type": "<no value>",
+                                    "seller_id": 0,
+                                    "service": "boleto",
+                                    "show_in_search": "<no value>",
+                                    "show_in_store": "<no value>",
+                                    "spend_limit": 0,
+                                    "student_account": "<no value>",
+                                    "supplier": "<no value>",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "<no value>",
+                                    "universal_link_ios": "<no value>",
+                                    "universal_link_title": "<no value>",
+                                    "updated_at": "<no value>"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5dd58e70b1f6f.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5dd58ef2223bad004659aba7",
+                                    "type": "financial_service"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "<no value>",
+                                    "available_in_ddds": "<no value>",
+                                    "banner_img_url": "<no value>",
+                                    "category": "<no value>",
+                                    "created_at": "<no value>",
+                                    "cupom_fields": "<no value>",
+                                    "description": "<no value>",
+                                    "description_large": "<no value>",
+                                    "description_large_markdown": "<no value>",
+                                    "disclaimer_markdown": "<no value>",
+                                    "enabled": "true",
+                                    "identifier": "<no value>",
+                                    "image_url": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5dd58ef2020a4.png",
+                                    "info_url": "<no value>",
+                                    "min_version_android_integer": 0,
+                                    "min_version_android_string": "<no value>",
+                                    "min_version_ios_integer": 0,
+                                    "min_version_ios_string": "<no value>",
+                                    "name": "sw",
+                                    "offline": "<no value>",
+                                    "offline_message": "<no value>",
+                                    "operator": "<no value>",
+                                    "order": 0,
+                                    "sales_ranking": 0,
+                                    "selection_type": "<no value>",
+                                    "seller_id": 0,
+                                    "service": "boleto",
+                                    "show_in_search": "<no value>",
+                                    "show_in_store": "<no value>",
+                                    "spend_limit": 0,
+                                    "student_account": "<no value>",
+                                    "supplier": "<no value>",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "<no value>",
+                                    "universal_link_ios": "<no value>",
+                                    "universal_link_title": "<no value>",
+                                    "updated_at": "<no value>"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5dd58ef2020a4.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5dd58f70223bad003f7c90c7",
+                                    "type": "financial_service"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "<no value>",
+                                    "available_in_ddds": "<no value>",
+                                    "banner_img_url": "<no value>",
+                                    "category": "<no value>",
+                                    "created_at": "<no value>",
+                                    "cupom_fields": "<no value>",
+                                    "description": "<no value>",
+                                    "description_large": "<no value>",
+                                    "description_large_markdown": "<no value>",
+                                    "disclaimer_markdown": "<no value>",
+                                    "enabled": "true",
+                                    "identifier": "<no value>",
+                                    "image_url": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5dd58f6fbd74a.png",
+                                    "info_url": "<no value>",
+                                    "min_version_android_integer": 0,
+                                    "min_version_android_string": "<no value>",
+                                    "min_version_ios_integer": 0,
+                                    "min_version_ios_string": "<no value>",
+                                    "name": "213",
+                                    "offline": "<no value>",
+                                    "offline_message": "<no value>",
+                                    "operator": "<no value>",
+                                    "order": 0,
+                                    "sales_ranking": 0,
+                                    "selection_type": "<no value>",
+                                    "seller_id": 0,
+                                    "service": "boleto",
+                                    "show_in_search": "<no value>",
+                                    "show_in_store": "<no value>",
+                                    "spend_limit": 0,
+                                    "student_account": "<no value>",
+                                    "supplier": "<no value>",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "<no value>",
+                                    "universal_link_ios": "<no value>",
+                                    "universal_link_title": "<no value>",
+                                    "updated_at": "<no value>"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5dd58f6fbd74a.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5dd58fb0223bad008e6cfc66",
+                                    "type": "financial_service"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "<no value>",
+                                    "available_in_ddds": "<no value>",
+                                    "banner_img_url": "<no value>",
+                                    "category": "<no value>",
+                                    "created_at": "<no value>",
+                                    "cupom_fields": "<no value>",
+                                    "description": "<no value>",
+                                    "description_large": "<no value>",
+                                    "description_large_markdown": "<no value>",
+                                    "disclaimer_markdown": "<no value>",
+                                    "enabled": "true",
+                                    "identifier": "<no value>",
+                                    "image_url": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5dd58faf295d8.png",
+                                    "info_url": "<no value>",
+                                    "min_version_android_integer": 0,
+                                    "min_version_android_string": "<no value>",
+                                    "min_version_ios_integer": 0,
+                                    "min_version_ios_string": "<no value>",
+                                    "name": "213qasasdasda",
+                                    "offline": "<no value>",
+                                    "offline_message": "<no value>",
+                                    "operator": "<no value>",
+                                    "order": 0,
+                                    "sales_ranking": 0,
+                                    "selection_type": "<no value>",
+                                    "seller_id": 0,
+                                    "service": "boleto",
+                                    "show_in_search": "<no value>",
+                                    "show_in_store": "<no value>",
+                                    "spend_limit": 0,
+                                    "student_account": "<no value>",
+                                    "supplier": "<no value>",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "<no value>",
+                                    "universal_link_ios": "<no value>",
+                                    "universal_link_title": "<no value>",
+                                    "updated_at": "<no value>"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5dd58faf295d8.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5dd58fc4223bad0092016be4",
+                                    "type": "financial_service"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "<no value>",
+                                    "available_in_ddds": "<no value>",
+                                    "banner_img_url": "<no value>",
+                                    "category": "<no value>",
+                                    "created_at": "<no value>",
+                                    "cupom_fields": "<no value>",
+                                    "description": "<no value>",
+                                    "description_large": "<no value>",
+                                    "description_large_markdown": "<no value>",
+                                    "disclaimer_markdown": "<no value>",
+                                    "enabled": "true",
+                                    "identifier": "<no value>",
+                                    "image_url": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5dd58fc3a9502.png",
+                                    "info_url": "<no value>",
+                                    "min_version_android_integer": 0,
+                                    "min_version_android_string": "<no value>",
+                                    "min_version_ios_integer": 0,
+                                    "min_version_ios_string": "<no value>",
+                                    "name": "pq ta dando 400 vey",
+                                    "offline": "<no value>",
+                                    "offline_message": "<no value>",
+                                    "operator": "<no value>",
+                                    "order": 0,
+                                    "sales_ranking": 0,
+                                    "selection_type": "<no value>",
+                                    "seller_id": 0,
+                                    "service": "boleto",
+                                    "show_in_search": "<no value>",
+                                    "show_in_store": "<no value>",
+                                    "spend_limit": 0,
+                                    "student_account": "<no value>",
+                                    "supplier": "<no value>",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "<no value>",
+                                    "universal_link_ios": "<no value>",
+                                    "universal_link_title": "<no value>",
+                                    "updated_at": "<no value>"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5dd58fc3a9502.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5df3ab1b8f521b003f6431a8",
+                                    "name": "Bem vindo Conta Uni",
+                                    "type": "web_view"
+                                }
+                            },
+                            "property": {
+                                "webview": {
+                                    "url": "http://site.ppay.me/app_webviews/conta-universitaria/benefits.php"
+                                }
+                            },
+                            "type": "webview"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5df3ab1a91859.png",
+                        "info": {
+                            "button": "ENTENDI",
+                            "description": "fsdfsdfsd dsfdsaaaa",
+                            "title": "Bem vindo Conta Uni"
+                        },
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5df7e45d3a4dcd00451bc094",
+                                    "type": "web_view"
+                                }
+                            },
+                            "property": {
+                                "webview": {
+                                    "url": "http://site.ppay.me/app_webviews/conta-universitaria/benefits.php"
+                                }
+                            },
+                            "type": "webview"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5df7e45cb7d14.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5e1880531f8b9f00c35a5310",
+                                    "type": "web_view"
+                                }
+                            },
+                            "property": {
+                                "webview": {
+                                    "url": "https://cdn.picpay.com/mail/bfh/heavy-users/12-2019/TESTES/ENGAJAMENTO/ecommerce/index.html"
+                                }
+                            },
+                            "type": "webview"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5e188051cce0e.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5e53fa1d87b98400563a48c4",
+                                    "type": "link"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "<no value>",
+                                    "available_in_ddds": "<no value>",
+                                    "banner_img_url": "<no value>",
+                                    "category": "<no value>",
+                                    "created_at": "<no value>",
+                                    "cupom_fields": "<no value>",
+                                    "description": "<no value>",
+                                    "description_large": "<no value>",
+                                    "description_large_markdown": "<no value>",
+                                    "disclaimer_markdown": "<no value>",
+                                    "enabled": "true",
+                                    "identifier": "<no value>",
+                                    "image_url": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5e53fa1d2c54b.png",
+                                    "info_url": "<no value>",
+                                    "min_version_android_integer": 0,
+                                    "min_version_android_string": "<no value>",
+                                    "min_version_ios_integer": 0,
+                                    "min_version_ios_string": "<no value>",
+                                    "name": "dorime",
+                                    "offline": "<no value>",
+                                    "offline_message": "<no value>",
+                                    "operator": "<no value>",
+                                    "order": 0,
+                                    "sales_ranking": 0,
+                                    "selection_type": "<no value>",
+                                    "seller_id": 0,
+                                    "service": "<no value>",
+                                    "show_in_search": "<no value>",
+                                    "show_in_store": "<no value>",
+                                    "spend_limit": 0,
+                                    "student_account": "<no value>",
+                                    "supplier": "<no value>",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "<no value>",
+                                    "universal_link_ios": "<no value>",
+                                    "universal_link_title": "<no value>",
+                                    "updated_at": "<no value>"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5e53fa1d2c54b.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5e57d66c290c3a00a7105f88",
+                                    "type": "web_view"
+                                }
+                            },
+                            "property": {
+                                "webview": {
+                                    "url": "http://google.com.br"
+                                }
+                            },
+                            "type": "webview"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5e57d66b5e92e.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5e614578c2ebfd00534134d4",
+                                    "type": "web_view"
+                                }
+                            },
+                            "property": {
+                                "webview": {
+                                    "url": "https://google.com.br"
+                                }
+                            },
+                            "type": "webview"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5e614577677bf.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5e61473cc2ebfd004e07e043",
+                                    "type": "link"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "<no value>",
+                                    "available_in_ddds": "<no value>",
+                                    "banner_img_url": "<no value>",
+                                    "category": "<no value>",
+                                    "created_at": "<no value>",
+                                    "cupom_fields": "<no value>",
+                                    "description": "<no value>",
+                                    "description_large": "<no value>",
+                                    "description_large_markdown": "<no value>",
+                                    "disclaimer_markdown": "<no value>",
+                                    "enabled": "true",
+                                    "identifier": "<no value>",
+                                    "image_url": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5e61473c0146a.png",
+                                    "info_url": "<no value>",
+                                    "min_version_android_integer": 0,
+                                    "min_version_android_string": "<no value>",
+                                    "min_version_ios_integer": 0,
+                                    "min_version_ios_string": "<no value>",
+                                    "name": "Banner Teste CRUD",
+                                    "offline": "<no value>",
+                                    "offline_message": "<no value>",
+                                    "operator": "<no value>",
+                                    "order": 0,
+                                    "sales_ranking": 0,
+                                    "selection_type": "<no value>",
+                                    "seller_id": 0,
+                                    "service": "<no value>",
+                                    "show_in_search": "<no value>",
+                                    "show_in_store": "<no value>",
+                                    "spend_limit": 0,
+                                    "student_account": "<no value>",
+                                    "supplier": "<no value>",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "<no value>",
+                                    "universal_link_ios": "<no value>",
+                                    "universal_link_title": "<no value>",
+                                    "updated_at": "<no value>"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5e61473c0146a.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5e6147cbc2ebfd00503d0df6",
+                                    "type": "web_view"
+                                }
+                            },
+                            "property": {
+                                "webview": {
+                                    "url": "www.google.com"
+                                }
+                            },
+                            "type": "webview"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5e6147ca4b70f.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5e6148d0c2ebfd00955d84f7",
+                                    "type": "link"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "<no value>",
+                                    "available_in_ddds": "<no value>",
+                                    "banner_img_url": "<no value>",
+                                    "category": "<no value>",
+                                    "created_at": "<no value>",
+                                    "cupom_fields": "<no value>",
+                                    "description": "<no value>",
+                                    "description_large": "<no value>",
+                                    "description_large_markdown": "<no value>",
+                                    "disclaimer_markdown": "<no value>",
+                                    "enabled": "true",
+                                    "identifier": "<no value>",
+                                    "image_url": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5e6148cf375bb.png",
+                                    "info_url": "<no value>",
+                                    "min_version_android_integer": 0,
+                                    "min_version_android_string": "<no value>",
+                                    "min_version_ios_integer": 0,
+                                    "min_version_ios_string": "<no value>",
+                                    "name": "Banner de teste",
+                                    "offline": "<no value>",
+                                    "offline_message": "<no value>",
+                                    "operator": "<no value>",
+                                    "order": 0,
+                                    "sales_ranking": 0,
+                                    "selection_type": "<no value>",
+                                    "seller_id": 0,
+                                    "service": "<no value>",
+                                    "show_in_search": "<no value>",
+                                    "show_in_store": "<no value>",
+                                    "spend_limit": 0,
+                                    "student_account": "<no value>",
+                                    "supplier": "<no value>",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "<no value>",
+                                    "universal_link_ios": "<no value>",
+                                    "universal_link_title": "<no value>",
+                                    "updated_at": "<no value>"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5e6148cf375bb.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5e614a0fc2ebfd004d29835b",
+                                    "type": "web_view"
+                                }
+                            },
+                            "property": {
+                                "webview": {
+                                    "url": "www.google.com.br"
+                                }
+                            },
+                            "type": "webview"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5e614a0f2f935.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5e73ae894c27a3004120d344",
+                                    "type": "web_view"
+                                }
+                            },
+                            "property": {
+                                "webview": {
+                                    "url": "www.google.com.br"
+                                }
+                            },
+                            "type": "webview"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5e73ae87d61a4.png",
+                        "type": "banner"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "banner store",
+                                "properties": {
+                                    "banner": "5ea075eeb27d11004e196448",
+                                    "type": "web_view"
+                                }
+                            },
+                            "property": {
+                                "webview": {
+                                    "url": "http://www.google.com"
+                                }
+                            },
+                            "type": "webview"
+                        },
+                        "image": "https://picpay-dev.s3.sa-east-1.amazonaws.com/banners/banner_5ea075ed0f49e.png",
+                        "type": "banner"
+                    }
+                ],
+                "type": "carousel"
+            },
+            {
+                "text": "Lojas",
+                "type": "subtitle"
+            },
+            {
+                "items": [
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "Payment Item Accessed",
+                                "properties": {
+                                    "id": "5f6b5a89a2e796002a4a4312",
+                                    "item_name": "iFood",
+                                    "section": "store - services",
+                                    "section_position": "0",
+                                    "type": "digital_good"
+                                }
+                            },
+                            "property": {
+                                "navigation": {
+                                    "screen_id": "dfd9bafc-ac0f-4ff9-ace8-b0ffc23124bb"
+                                }
+                            },
+                            "type": "open_screen"
+                        },
+                        "image": "https://s3.amazonaws.com/cdn.picpay.com/picpay/sellers/ifood-logo.png",
+                        "subtitle": "Pede um ifood!",
+                        "title": "iFood",
+                        "type": "primary_item"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "Payment Item Accessed",
+                                "properties": {
+                                    "id": "5fb55bfec0e26e0e1501852a",
+                                    "item_name": "iFood",
+                                    "section": "store - services",
+                                    "section_position": "1",
+                                    "type": "digital_good"
+                                }
+                            },
+                            "property": {
+                                "navigation": {
+                                    "screen_id": "5fb534fccb21457e84c5d694"
+                                }
+                            },
+                            "type": "open_screen"
+                        },
+                        "image": "https://s3.amazonaws.com/cdn.picpay.com/picpay/sellers/ifood-logo.png",
+                        "subtitle": "Pede um xbox!",
+                        "title": "iFood",
+                        "type": "primary_item"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "Payment Item Accessed",
+                                "properties": {
+                                    "id": "5f6b4a18491a7d014310a634",
+                                    "item_name": "Recarga de Telefones1",
+                                    "section": "store - services",
+                                    "section_position": "2",
+                                    "type": "digital_good"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "5f6b4a18491a7d014310a634",
+                                    "available_in_ddds": "",
+                                    "banner_img_url": "",
+                                    "category": "services",
+                                    "created_at": "2020-09-23 10:14:00",
+                                    "cupom_fields": "<no value>",
+                                    "description": "Recarga nas operadoras Vivo, Claro, Tim, Oi, Nextel",
+                                    "description_large": "lorem ipsum",
+                                    "description_large_markdown": "",
+                                    "disclaimer_markdown": "**Importante**: para resgatar o iFood Card você precisa copiar o PIN que estará disponível para você no recibo de pagamento aqui no aplicativo, assim que concluir a compra. <br>O crédito não é reembolsável pelo PicPay. <br><br>Para resgatar o iFood Card siga as instruções: <br>1. Abra o iFood e clique em <i>Perfil</i><br>2. Acesse sua <i>Carteira</i> e toque em <i>Resgatar iFood Card</i><br>3. Cole ou digite o PIN <br>4. Pronto! O saldo estará disponível <br><br> **Validade dos créditos:** 90 dias após o resgate no iFood.",
+                                    "enabled": "true",
+                                    "identifier": "phonerecharge",
+                                    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/PicPay_Logogrande.png",
+                                    "info_url": "http://",
+                                    "min_version_android_integer": 905001,
+                                    "min_version_android_string": "9.5.1",
+                                    "min_version_ios_integer": 905003,
+                                    "min_version_ios_string": "9.5.3",
+                                    "name": "Recarga de Telefones1",
+                                    "offline": "false",
+                                    "offline_message": "Serviço indisponível no momento, por favor tente novamente mais tarde",
+                                    "operator": "",
+                                    "order": 10,
+                                    "sales_ranking": 0,
+                                    "selection_type": "grid",
+                                    "seller_id": 1,
+                                    "service": "phonerecharges",
+                                    "show_in_search": "false",
+                                    "show_in_store": "false",
+                                    "spend_limit": 100,
+                                    "student_account": "false",
+                                    "supplier": "epay",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "ifood://movilepay/ifood_card_input?sceneTitle=Insira%20seu%20iFood%20Card",
+                                    "universal_link_ios": "ifood://movilepay/ifood_card_input?sceneTitle=Insira%20seu%20iFood%20Card",
+                                    "universal_link_title": "",
+                                    "updated_at": "2020-12-17 18:41:28"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/PicPay_Logogrande.png",
+                        "subtitle": "Recarga nas operadoras Vivo, Claro, Tim, Oi, Nextel",
+                        "title": "Recarga de Telefones1",
+                        "type": "primary_item"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "Payment Item Accessed",
+                                "properties": {
+                                    "id": "5f6b4a1b491a7d014310a754",
+                                    "item_name": "Cliente Premium Herbalife Nutrition",
+                                    "section": "store - services",
+                                    "section_position": "3",
+                                    "type": "digital_good"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "5f6b4a1b491a7d014310a754",
+                                    "available_in_ddds": "",
+                                    "banner_img_url": "https://pngimage.net/wp-content/uploads/2018/06/picpay-png-3.png",
+                                    "category": "services",
+                                    "created_at": "2020-09-23 10:14:03",
+                                    "cupom_fields": "<no value>",
+                                    "description": "Adquira sua conta e tenha acesso a diversos benefícios",
+                                    "description_large": "",
+                                    "description_large_markdown": "Agora você pode adquirir produtos Herbalife Nutrition de maneira prática e rápida, e ainda garantir descontos especiais e promoções exclusivas!",
+                                    "disclaimer_markdown": "**Importante:** Você receberá o ID e código de acesso ao Portal Herbalife Nutrition após o pagamento.",
+                                    "enabled": "true",
+                                    "identifier": "herbalife",
+                                    "image_url": "https://www.picpay.com/static/images/bullets/store.png",
+                                    "info_url": "https://cdn.picpay.com/apps/picpay/digital-goods/herbalife-terms.html",
+                                    "min_version_android_integer": 905012,
+                                    "min_version_android_string": "9.5.12",
+                                    "min_version_ios_integer": 10012036,
+                                    "min_version_ios_string": "100.12.36",
+                                    "name": "Cliente Premium Herbalife Nutrition",
+                                    "offline": "false",
+                                    "offline_message": "Serviço indisponível no momento, por favor tente novamente mais tarde",
+                                    "operator": "",
+                                    "order": 21,
+                                    "sales_ranking": 0,
+                                    "selection_type": "list",
+                                    "seller_id": 14427,
+                                    "service": "digitalcodes",
+                                    "show_in_search": "false",
+                                    "show_in_store": "false",
+                                    "spend_limit": 0,
+                                    "student_account": "false",
+                                    "supplier": "herbalife",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "<no value>",
+                                    "universal_link_ios": "<no value>",
+                                    "universal_link_title": "<no value>",
+                                    "updated_at": "2020-09-23 10:14:03"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://www.picpay.com/static/images/bullets/store.png",
+                        "subtitle": "Adquira sua conta e tenha acesso a diversos benefícios",
+                        "title": "Cliente Premium Herbalife Nutrition",
+                        "type": "primary_item"
+                    }
+                ],
+                "type": "list"
+            },
+            {
+                "text": "Games",
+                "type": "subtitle"
+            },
+            {
+                "items": [
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "Payment Item Accessed",
+                                "properties": {
+                                    "id": "5f6b4a19491a7d014310a667",
+                                    "item_name": "Google Play",
+                                    "section": "store - games",
+                                    "section_position": "0",
+                                    "type": "digital_good"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "5f6b4a19491a7d014310a667",
+                                    "available_in_ddds": "",
+                                    "banner_img_url": "",
+                                    "category": "games",
+                                    "created_at": "2020-09-23 10:14:01",
+                                    "cupom_fields": "<no value>",
+                                    "description": "Compra de cupons da Google Play",
+                                    "description_large": "lorem ipsum",
+                                    "description_large_markdown": "",
+                                    "disclaimer_markdown": "",
+                                    "enabled": "true",
+                                    "identifier": "googleplay",
+                                    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/PicPay_Logogrande.png",
+                                    "info_url": "http://",
+                                    "min_version_android_integer": 905003,
+                                    "min_version_android_string": "9.5.3",
+                                    "min_version_ios_integer": 906000,
+                                    "min_version_ios_string": "9.6.0",
+                                    "name": "Google Play",
+                                    "offline": "false",
+                                    "offline_message": "Serviço indisponível no momento, por favor tente novamente mais tarde",
+                                    "operator": "",
+                                    "order": 20,
+                                    "sales_ranking": 0,
+                                    "selection_type": "grid",
+                                    "seller_id": 2,
+                                    "service": "digitalcodes",
+                                    "show_in_search": "true",
+                                    "show_in_store": "true",
+                                    "spend_limit": 0,
+                                    "student_account": "true",
+                                    "supplier": "",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "<no value>",
+                                    "universal_link_ios": "<no value>",
+                                    "universal_link_title": "<no value>",
+                                    "updated_at": "2020-09-23 10:14:02"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/PicPay_Logogrande.png",
+                        "subtitle": "Compra de cupons da Google Play",
+                        "title": "Google Play",
+                        "type": "primary_item"
+                    }
+                ],
+                "type": "list"
+            },
+            {
+                "text": "Músicas",
+                "type": "subtitle"
+            },
+            {
+                "items": [
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "Payment Item Accessed",
+                                "properties": {
+                                    "id": "5f6b4a1b491a7d014310a749",
+                                    "item_name": "Spotify Premium",
+                                    "section": "store - musics",
+                                    "section_position": "0",
+                                    "type": "digital_good"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "5f6b4a1b491a7d014310a749",
+                                    "available_in_ddds": "",
+                                    "banner_img_url": "https://cdn.picpay.com/picpay/sellers/spotify-banner.jpg",
+                                    "category": "musics",
+                                    "created_at": "2020-09-23 10:14:03",
+                                    "cupom_fields": "<no value>",
+                                    "description": "Gift cards para assinar ou presentear",
+                                    "description_large": "",
+                                    "description_large_markdown": "Pague sua própria assinatura ou presenteie alguém especial. Escolha entre uma variedade de cartões presente, que podem ser resgatados por uma assinatura do Spotify Premium (o código não pode ser utilizado em conjunto com outros descontos ou promoções, como o Plano Familiar, Plano Universitário ou contas que ainda estejam no período de teste gratuito do Spotify).",
+                                    "disclaimer_markdown": "**Importante:** Você receberá o código PIN no valor escolhido após o pagamento. O crédito não é reembolsado pelo PicPay.",
+                                    "enabled": "true",
+                                    "identifier": "spotify",
+                                    "image_url": "https://cdn.picpay.com/picpay/sellers/spotify-avatar.png",
+                                    "info_url": "https://cdn.picpay.com/apps/picpay/digital-goods/spotify-terms.html",
+                                    "min_version_android_integer": 905012,
+                                    "min_version_android_string": "9.5.12",
+                                    "min_version_ios_integer": 10012036,
+                                    "min_version_ios_string": "100.12.36",
+                                    "name": "Spotify Premium",
+                                    "offline": "false",
+                                    "offline_message": "Serviço indisponível no momento, por favor tente novamente mais tarde",
+                                    "operator": "",
+                                    "order": 20,
+                                    "sales_ranking": 0,
+                                    "selection_type": "list",
+                                    "seller_id": 14427,
+                                    "service": "digitalcodes",
+                                    "show_in_search": "true",
+                                    "show_in_store": "true",
+                                    "spend_limit": 0,
+                                    "student_account": "true",
+                                    "supplier": "5f6b4a19491a7d014310a665",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "<no value>",
+                                    "universal_link_ios": "<no value>",
+                                    "universal_link_title": "<no value>",
+                                    "updated_at": "2020-09-23 10:14:03"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://cdn.picpay.com/picpay/sellers/spotify-avatar.png",
+                        "subtitle": "Gift cards para assinar ou presentear",
+                        "title": "Spotify Premium",
+                        "type": "primary_item"
+                    }
+                ],
+                "type": "list"
+            },
+            {
+                "text": "Tvs",
+                "type": "subtitle"
+            },
+            {
+                "items": [
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "Payment Item Accessed",
+                                "properties": {
+                                    "id": "5f6b4a19491a7d014310a6b8",
+                                    "item_name": "Claro TV Pré-Pago",
+                                    "section": "store - tvs",
+                                    "section_position": "0",
+                                    "type": "digital_good"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "5f6b4a19491a7d014310a6b8",
+                                    "available_in_ddds": "",
+                                    "banner_img_url": "",
+                                    "category": "tvs",
+                                    "created_at": "2020-09-23 10:14:01",
+                                    "cupom_fields": "<no value>",
+                                    "description": "Recarga da Claro TV XXX",
+                                    "description_large": "lorem ipsum",
+                                    "description_large_markdown": "",
+                                    "disclaimer_markdown": "",
+                                    "enabled": "true",
+                                    "identifier": "rvclarotv",
+                                    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/PicPay_Logogrande.png",
+                                    "info_url": "http=>//",
+                                    "min_version_android_integer": 100410,
+                                    "min_version_android_string": "10.4.10",
+                                    "min_version_ios_integer": 100410,
+                                    "min_version_ios_string": "10.4.10",
+                                    "name": "Claro TV Pré-Pago",
+                                    "offline": "false",
+                                    "offline_message": "Serviço indisponível no momento, por favor tente novamente mais tarde",
+                                    "operator": "CLARO TV",
+                                    "order": 0,
+                                    "sales_ranking": 0,
+                                    "selection_type": "list",
+                                    "seller_id": 2,
+                                    "service": "tvrecharges",
+                                    "show_in_search": "true",
+                                    "show_in_store": "true",
+                                    "spend_limit": 200,
+                                    "student_account": "false",
+                                    "supplier": "rv",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "",
+                                    "universal_link_ios": "",
+                                    "universal_link_title": "",
+                                    "updated_at": "2020-09-28 17:32:02"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/PicPay_Logogrande.png",
+                        "subtitle": "Recarga da Claro TV XXX",
+                        "title": "Claro TV Pré-Pago",
+                        "type": "primary_item"
+                    },
+                    {
+                        "action": {
+                            "analytics": {
+                                "name": "Payment Item Accessed",
+                                "properties": {
+                                    "id": "5f6b4a19491a7d014310a6b9",
+                                    "item_name": "SKY Pré-Pago",
+                                    "section": "store - tvs",
+                                    "section_position": "1",
+                                    "type": "digital_good"
+                                }
+                            },
+                            "property": {
+                                "legacy_digital_good": {
+                                    "_id": "5f6b4a19491a7d014310a6b9",
+                                    "available_in_ddds": "",
+                                    "banner_img_url": "",
+                                    "category": "tvs",
+                                    "created_at": "2020-09-23 10:14:01",
+                                    "cupom_fields": "<no value>",
+                                    "description": "Recarga da SKY 1234567890",
+                                    "description_large": "lorem ipsum",
+                                    "description_large_markdown": "",
+                                    "disclaimer_markdown": "",
+                                    "enabled": "true",
+                                    "identifier": "rvskytv",
+                                    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/PicPay_Logogrande.png",
+                                    "info_url": "http=>//",
+                                    "min_version_android_integer": 1004000,
+                                    "min_version_android_string": "10.4.0",
+                                    "min_version_ios_integer": 1004000,
+                                    "min_version_ios_string": "10.4.0",
+                                    "name": "SKY Pré-Pago",
+                                    "offline": "false",
+                                    "offline_message": "Serviço indisponível no momento, por favor tente novamente mais tarde",
+                                    "operator": "SKY",
+                                    "order": 0,
+                                    "sales_ranking": 0,
+                                    "selection_type": "list",
+                                    "seller_id": 2,
+                                    "service": "tvrecharges",
+                                    "show_in_search": "false",
+                                    "show_in_store": "false",
+                                    "spend_limit": 200,
+                                    "student_account": "false",
+                                    "supplier": "rv",
+                                    "tags": "<no value>",
+                                    "universal_link_android": "<no value>",
+                                    "universal_link_ios": "<no value>",
+                                    "universal_link_title": "<no value>",
+                                    "updated_at": "2020-09-23 10:14:02"
+                                }
+                            },
+                            "type": "open_legacy_digital_good"
+                        },
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/PicPay_Logogrande.png",
+                        "subtitle": "Recarga da SKY 1234567890",
+                        "title": "SKY Pré-Pago",
+                        "type": "primary_item"
+                    }
+                ],
+                "type": "list"
+            }
+        ]
+    }
+}

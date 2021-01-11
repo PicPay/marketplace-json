@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "created_at": "2020-07-17T14:01:16.613216-03:00",
+  "updated_at": "2020-07-17T14:01:16.613216-03:00",
+  "identifier": "34e7f6ed-d19a-4c1d-b9dd-16b8735c3e46",
+  "body": {
+    "header": {
+      "title": "Adidas",
+      "type": "simple_header"
+    },
+    "components": [
+      {
+        "type": "carousel_product_detail",
+        "items": [
+          {
+            "image": "image.png",
+            "type": "image_carousel"
+          },
+          {
+            "image": "https://picpay.s3.sa-east-1.amazonaws.com/banners/banner_5f85ec3c50b56.png",
+            "type": "image_carousel"
+          }
+        ]
+      },
+      {
+        "type": "title",
+        "text": "Blusa capuz trefoil"
+      },
+      {
+        "type": "subtitle",
+        "text": "Conforto absoluto, esta blusa vem com capuz Adidas exibe um logo trefoil"
+      },
+      {
+        "type": "buy_selector",
+        "key": "product_type",
+        "selector_label": "Selecionar tamanho",
+        "button_label": "Quero Comprar",
+        "prices": [
+          {
+            "old_price": "R$ 350,00",
+            "price": "R$ 299,00",
+            "installments": "Até 6x R$49,83",
+            "spotlight": "15% off",
+            "sku": "sku123"
+          },
+          {
+            "old_price": "R$ 350,00",
+            "price": "R$ 299,00",
+            "installments": "Até 6x R$49,83",
+            "spotlight": "15% off",
+            "sku": "sku123"
+          },
+          {
+            "old_price": "R$ 350,00",
+            "price": "R$ 299,00",
+            "installments": "Até 6x R$49,83",
+            "spotlight": "15% off",
+            "sku": "sku123"
+          }
+        ],
+        "options": ["P", "M", "G"],
+        "action": {
+          "type": "remote_action",
+          "input_keys": ["product_type"],
+          "property": {
+            "url": "http://www.urldaaction.com",
+            "external_data": [
+              {
+                "key": "product_id",
+                "value": "product123"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "subtitle",
+        "text": "Características"
+      },
+      {
+        "type": "markdown",
+        "text": "TODO"
+      },
+      {
+        "type": "subtitle",
+        "text": "Especificação"
+      },
+      {
+        "type": "markdown",
+        "text": "TODO"
+      },
+      {
+        "type": "subtitle",
+        "text": "Dimensões"
+      },
+      {
+        "type": "markdown",
+        "text": "TODO"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "created_at": "2020-07-17T14:01:16.613216-03:00",
+  "updated_at": "2020-07-17T14:01:16.613216-03:00",
+  "identifier": "34e7f6ed-d19a-4c1d-b9dd-16b8735c3e46",
+  "body": {
+    "header": {
+      "type": "simple_header",
+      "title": "Selecionar frete"
+    },
+    "components": [
+      {
+        "type": "product_card_item",
+        "items": [
+          {
+            "avatar": "avatar_produto.png",
+            "spotlight": "Sedex",
+            "value": "R$ 15,00",
+            "description": "Prazo de entrega 5 dias úteis",
+            "action": {
+              "property": {
+                "type": "payment",
+                "external_data": [
+                  {
+                    "key": "shipping_id",
+                    "value": "1234"
+                  }
+                ],
+                "payment": {
+                  "description": "Bluza capuz trefoil",
+                  "disclaimer": "TODO",
+                  "info_url": "https://cdn.picpay.com/picpay/sellers/ifood-terms.html",
+                  "logo_url": "https://s3.amazonaws.com/cdn.picpay.com/picpay/sellers/ifood-logo.png",
+                  "store_id": "2",
+                  "value": "314.0"
+                }
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
