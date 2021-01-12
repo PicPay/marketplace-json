@@ -31,65 +31,70 @@
         "color": "0xFFFFFF"
       },
       {
-        "type": "status_list",
+        "type": "medium_text",
+        "text": "Status do Pedido",
+        "style": {
+          "font_color": "0xFFFFFF"
+        }
+      },
+      {
+        "type": "section_status",
         "title": "TODO",
-        "items": [
-          {
-            "title": "TODO",
-            "short_description": "TODO - 12/12/2020",
-            "description": "TODO - Markdown",
-            "button": {
-              "label": "Ajuda",
-              "action": {
-                "type": "webview",
-                "property": {
-                  "webview": {
-                    "url": "https://cdn.picpay.com/apps/picpay/digital-goods/spotify-terms03.html"
-                  }
-                }
+        "short_description": "TODO - 12/12/2020",
+        "description": "TODO - Markdown",
+        "button": {
+          "label": "Ajuda",
+          "action": {
+            "type": "webview",
+            "property": {
+              "webview": {
+                "url": "https://cdn.picpay.com/apps/picpay/digital-goods/spotify-terms03.html"
               }
-            },
-            "top_line_color": "0xFFFFF",
-            "bottom_line_color": "0xAAAAAA",
-            "status_icon": "URL",
-            "title_color": "0xFFFFF",
-            "description_color": "0xFFFFF"
+            }
           }
-        ]
+        },
+        "top_line_color": "0xFFFFF",
+        "bottom_line_color": "0xAAAAAA",
+        "status_icon": "URL",
+        "title_color": "0xFFFFF",
+        "description_color": "0xFFFFF"
       },
       {
         "type": "divider",
         "color": "0xFFFFFF"
       },
       {
-        "type": "data_list",
-        "title": "Dados do Pedido",
-        "lines": [
-          {
-            "label": "Número do pedido",
-            "value": "64891836"
-          }
-        ]
+        "type": "medium_text",
+        "text": "Dados do Pedido",
+        "style": {
+          "font_color": "0xFFFFFF"
+        }
+      },
+      {
+        "type": "label_value",
+        "label": "Número do Pedido",
+        "value": "123456"
       },
       {
         "type": "divider",
         "color": "0xFFFFFF"
       },
       {
-        "type": "data_list",
-        "title": "Dados do Pagamento",
-        "lines": [
-          {
-            "label": "Saldo + Cartão",
-            "value": "Master final 1234"
-          }
-        ]
+        "type": "medium_text",
+        "text": "Dados do Pagamento",
+        "style": {
+          "font_color": "0xFFFFFF"
+        }
+      },
+      {
+        "type": "label_value",
+        "label": "Saldo + Cartão",
+        "value": "Master final 1234"
       },
       {
         "type": "divider",
         "color": "0xFFFFFF"
       },
-
       {
         "type": "markdown",
         "text": "Período de troca elegível até 31 Jan 21"
