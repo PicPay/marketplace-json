@@ -49,33 +49,6 @@
                 }
               }
             },
-            "status": "completed" // "completed", "last_completed", "rejected", "pending"
-          }
-        ]
-      },
-      {
-        "type": "divider",
-        "color": "0xFFFFFF"
-      },
-      {
-        "type": "status_list",
-        "title": "TODO",
-        "items": [
-          {
-            "title": "TODO",
-            "short_description": "TODO - 12/12/2020",
-            "description": "TODO - Markdown",
-            "button": {
-              "label": "Ajuda",
-              "action": {
-                "type": "webview",
-                "property": {
-                  "webview": {
-                    "url": "https://cdn.picpay.com/apps/picpay/digital-goods/spotify-terms03.html"
-                  }
-                }
-              }
-            },
             "top_line_color": "0xFFFFF",
             "bottom_line_color": "0xAAAAAA",
             "status_icon": "URL",
