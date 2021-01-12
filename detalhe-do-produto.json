@@ -31,43 +31,27 @@
         "text": "Conforto absoluto, esta blusa vem com capuz Adidas exibe um logo trefoil"
       },
       {
-        "type": "buy_selector",
-        "key": "product_type",
-        "selector_label": "Selecionar tamanho",
-        "button_label": "Quero Comprar",
-        "prices": [
-          {
-            "old_price": "R$ 350,00",
-            "price": "R$ 299,00",
-            "installments": "Até 6x R$49,83",
-            "spotlight": "15% off",
-            "sku": "sku123"
-          },
-          {
-            "old_price": "R$ 350,00",
-            "price": "R$ 299,00",
-            "installments": "Até 6x R$49,83",
-            "spotlight": "15% off",
-            "sku": "sku123"
-          },
-          {
-            "old_price": "R$ 350,00",
-            "price": "R$ 299,00",
-            "installments": "Até 6x R$49,83",
-            "spotlight": "15% off",
-            "sku": "sku123"
-          }
-        ],
-        "options": ["P", "M", "G"],
+        "type":"item_price",
+        "old_price": "R$ 350,00",
+        "price": "R$ 299,00",
+        "installments": "Até 6x R$49,83",
+        "spotlight": "15% off"
+      },
+      {
+        "type": "button",
+        "label": "Quero comprar",
         "action": {
           "type": "remote_action",
-          "input_keys": ["product_type"],
           "property": {
             "url": "http://www.urldaaction.com",
             "external_data": [
               {
                 "key": "product_id",
                 "value": "product123"
+              },
+              {
+                "key": "sku",
+                "value": "123"
               }
             ]
           }
