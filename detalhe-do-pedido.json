@@ -52,7 +52,8 @@
             "top_line_color": "0xFFFFF",
             "bottom_line_color": "0xAAAAAA",
             "status_icon": "URL",
-            "title_color": "0xFFFFF"
+            "title_color": "0xFFFFF",
+            "description_color": "0xFFFFF"
           }
         ]
       },
