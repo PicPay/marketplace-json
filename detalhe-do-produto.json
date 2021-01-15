@@ -9,15 +9,27 @@
       "type": "simple_header"
     },
     "components": [
-      {
+      {{
         "type": "carousel_product_detail",
         "items": [
           {
-            "value": "image.png",
+            "value": "https://assets.adidas.com/images/h_640,f_auto,q_auto:sensitive,fl_lossy/86e3400b1c7a47d2ac5bac710103f5ba_9366/Tenis_GRAND_COURT_Azul_CM5712_01_standard.jpg",
             "type": "image_carousel"
           },
           {
-            "value": "https://picpay.s3.sa-east-1.amazonaws.com/banners/banner_5f85ec3c50b56.png",
+            "value": "https://assets.adidas.com/images/h_640,f_auto,q_auto:sensitive,fl_lossy/a84819e92ac84bf78026ac710104019a_9366/Tenis_GRAND_COURT_Azul_CM5712_02_standard_hover.jpg",
+            "type": "image_carousel"
+          },
+          {
+            "value": "https://assets.adidas.com/images/h_640,f_auto,q_auto:sensitive,fl_lossy/afb1f22804f5410c9c16ac710103f7a0_9366/Tenis_GRAND_COURT_Azul_CM5712_03_standard.jpg",
+            "type": "image_carousel"
+          },
+          {
+            "value": "https://assets.adidas.com/images/h_640,f_auto,q_auto:sensitive,fl_lossy/01084fadd70846089d1dac710103ec4a_9366/Tenis_GRAND_COURT_Azul_CM5712_04_standard.jpg",
+            "type": "image_carousel"
+          },
+          {
+            "value": "https://assets.adidas.com/images/h_640,f_auto,q_auto:sensitive,fl_lossy/f752c378cf8a46dbb2e4ac710103ed43_9366/Tenis_GRAND_COURT_Azul_CM5712_05_standard.jpg",
             "type": "image_carousel"
           }
         ]
