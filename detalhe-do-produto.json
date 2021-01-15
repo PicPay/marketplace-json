@@ -13,11 +13,11 @@
         "type": "carousel_product_detail",
         "items": [
           {
-            "image": "image.png",
+            "value": "image.png",
             "type": "image_carousel"
           },
           {
-            "image": "https://picpay.s3.sa-east-1.amazonaws.com/banners/banner_5f85ec3c50b56.png",
+            "value": "https://picpay.s3.sa-east-1.amazonaws.com/banners/banner_5f85ec3c50b56.png",
             "type": "image_carousel"
           }
         ]
