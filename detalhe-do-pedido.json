@@ -42,20 +42,24 @@
         "title": "TODO",
         "short_description": "TODO - 12/12/2020",
         "description": "TODO - Markdown",
+        "status_icon": "URL",
         "button": {
           "label": "Ajuda",
-          "action": {
-            "type": "webview",
-            "property": {
-              "webview": {
-                "url": "https://cdn.picpay.com/apps/picpay/digital-goods/spotify-terms03.html"
-              }
+          "style":{
+            "background_color":"0xFFFFFF",
+            "font_color":"0xFFFFFF"
+          }
+        },
+        "action": {
+          "type": "webview",
+          "property": {
+            "webview": {
+              "url": "https://cdn.picpay.com/apps/picpay/digital-goods/spotify-terms03.html"
             }
           }
         },
         "top_line_color": "0xFFFFF",
         "bottom_line_color": "0xAAAAAA",
-        "status_icon": "URL",
         "title_color": "0xFFFFF",
         "description_color": "0xFFFFF"
       },
