@@ -38,7 +38,7 @@
         }
       },
       {
-        "type": "section_status",
+        "type": "order_state",
         "title": "TODO",
         "short_description": "TODO - 12/12/2020",
         "description": "TODO - Markdown",
