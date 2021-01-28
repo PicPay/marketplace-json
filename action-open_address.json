@@ -1,7 +1,7 @@
 {
   "action": {
+    "type": "open_address",
     "property": {
-      "type": "open_address",
       "navigation": {
         "screen_id": "1234"
       }
