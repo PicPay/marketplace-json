@@ -22,9 +22,20 @@
     "components": [
       {
         "type": "message_screen",
-        "img_url": "image.jpg",
+        "image": "http:teste.com/teste.jpeg",
         "title": "Nenhum pedido para exibir",
-        "message": "TODO - Markdown"
+        "description": "TODO - Markdown",
+        "button": {
+          "label": "Ajuda"
+        },
+        "action": {
+          "type": "webview",
+          "property": {
+            "webview": {
+              "url": "https://cdn.picpay.com/apps/picpay/digital-goods/spotify-terms03.html"
+            }
+          }
+        }
       }
     ]
   }
