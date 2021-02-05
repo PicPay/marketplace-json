@@ -9,7 +9,7 @@
       "type": "simple_header"
     },
     "components": [
-      {{
+      {
         "type": "carousel_product_detail",
         "items": [
           {
