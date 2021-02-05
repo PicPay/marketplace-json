@@ -29,13 +29,13 @@
       },
       {
         "type": "divider",
-        "color": "0xFFFFFF"
+        "color": "#FFFFFF"
       },
       {
         "type": "medium_text",
         "text": "Status do Pedido",
         "style": {
-          "font_color": "0xFFFFFF"
+          "font_color": "#FFFFFF"
         }
       },
       {
@@ -47,8 +47,8 @@
         "button": {
           "label": "Ajuda",
           "style":{
-            "background_color":"0xFFFFFF",
-            "font_color":"0xFFFFFF"
+            "background_color":"#FFFFFF",
+            "font_color":"#FFFFFF"
           }
         },
         "action": {
@@ -59,20 +59,20 @@
             }
           }
         },
-        "top_line_color": "0xFFFFF",
-        "bottom_line_color": "0xAAAAAA",
-        "title_color": "0xFFFFF",
-        "description_color": "0xFFFFF"
+        "top_line_color": "#FFFFF",
+        "bottom_line_color": "#AAAAAA",
+        "title_color": "#FFFFF",
+        "description_color": "#FFFFF"
       },
       {
         "type": "divider",
-        "color": "0xFFFFFF"
+        "color": "#FFFFFF"
       },
       {
         "type": "medium_text",
         "text": "Dados do Pedido",
         "style": {
-          "font_color": "0xFFFFFF"
+          "font_color": "#FFFFFF"
         }
       },
       {
@@ -82,13 +82,13 @@
       },
       {
         "type": "divider",
-        "color": "0xFFFFFF"
+        "color": "#FFFFFF"
       },
       {
         "type": "medium_text",
         "text": "Dados do Pagamento",
         "style": {
-          "font_color": "0xFFFFFF"
+          "font_color": "#FFFFFF"
         }
       },
       {
@@ -98,7 +98,7 @@
       },
       {
         "type": "divider",
-        "color": "0xFFFFFF"
+        "color": "#FFFFFF"
       },
       {
         "type": "markdown",
