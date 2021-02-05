@@ -9,6 +9,7 @@
       "title": "Detalhes do pedido",
       "right_button": {
         "label": "Ajuda",
+        "type": "button",
         "action": {
           "type": "webview",
           "property": {

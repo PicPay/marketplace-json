@@ -9,6 +9,7 @@
       "title": "Selecionar frete",
       "right_button": {
         "label": "Ajuda",
+        "type": "button",
         "action": {
           "type": "webview",
           "property": {
