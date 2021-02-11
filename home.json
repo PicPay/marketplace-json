@@ -1317,11 +1317,102 @@
                 ],
                 "type": "carousel"
             },
+          {
+                "type": "primary_card",
+                "title": "Meus Pedidos",
+                "subtitle": "teste",
+                "image": "https://cdn.picpay.com/picpay/sellers/icons/receipt.png",
+                "action": {
+                    "type": "webview",
+                    "property": {
+                      "webview": {
+                        "url": "https://cdn.picpay.com/apps/picpay/digital-goods/spotify-terms03.html"
+                      }
+                    }
+                  }
+            },
             {
                 "text": "Lojas",
                 "type": "subtitle"
             },
-            {
+                {
+        "items": [
+          {
+            "action": {
+              "analytics": {
+                "name": "Payment Item Accessed",
+                "properties": {
+                  "id": "<no value>",
+                  "item_name": "Adidas",
+                  "section": "store - novidades",
+                  "section_position": "0",
+                  "type": "digital_good"
+                }
+              },
+              "property": {
+                "navigation": {
+                  "screen_id": "loja_adidas"
+                }
+              },
+              "type": "open_screen"
+            },
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jEb68kphsO_wHL7g_xrWBzoBwfTCX8DRyw&usqp=CAU",
+            "subtitle": "Marketplace",
+            "title": "Adidas",
+            "type": "primary_item"
+          },
+          {
+            "action": {
+              "analytics": {
+                "name": "Payment Item Accessed",
+                "properties": {
+                  "id": "<no value>",
+                  "item_name": "IMVU",
+                  "section": "store - novidades",
+                  "section_position": "1",
+                  "type": "digital_good"
+                }
+              },
+              "property": {
+                "navigation": {
+                  "screen_id": "imvu"
+                }
+              },
+              "type": "open_screen"
+            },
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jEb68kphsO_wHL7g_xrWBzoBwfTCX8DRyw&usqp=CAU",
+            "subtitle": "Personalize seu avatar 3D no Picpay!",
+            "title": "IMVU",
+            "type": "primary_item"
+          },
+          {
+            "action": {
+              "analytics": {
+                "name": "Payment Item Accessed",
+                "properties": {
+                  "id": "<no value>",
+                  "item_name": "Shellbox",
+                  "section": "store - novidades",
+                  "section_position": "2",
+                  "type": "digital_good"
+                }
+              },
+              "property": {
+                "navigation": {
+                  "screen_id": "shellbox"
+                }
+              },
+              "type": "open_screen"
+            },
+            "image": "https://cdn.picpay.com/store/assets/shellbox/shellbox_avatar.png",
+            "subtitle": "Pague o abastecimento nos postos Shell",
+            "title": "Shellbox",
+            "type": "primary_item"
+          }
+        ],
+        "type": "list"
+      },
+                        {
                 "items": [
                     {
                         "action": {

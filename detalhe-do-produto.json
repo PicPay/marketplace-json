@@ -36,14 +36,14 @@
       },
       {
         "type": "title",
-        "text": "Blusa capuz trefoil"
+        "text": "Blusa Capuz Trefoil Medium Grey Heather / White"
       },
       {
-        "type": "subtitle",
+        "type": "markdown_text",
         "text": "Conforto absoluto, esta blusa vem com capuz Adidas exibe um logo trefoil"
       },
       {
-        "type":"item_price",
+        "type": "item_price",
         "old_price": "R$ 350,00",
         "price": "R$ 299,00",
         "installments": "Até 6x R$49,83",
@@ -53,45 +53,29 @@
         "type": "button",
         "label": "Quero comprar",
         "action": {
-          "type": "remote_action",
+          "type": "open_address",
           "property": {
-            "url": "http://www.urldaaction.com",
-            "external_data": [
-              {
-                "key": "product_id",
-                "value": "product123"
-              },
-              {
-                "key": "sku",
-                "value": "123"
-              }
-            ]
+            "navigation": {
+              "screen_id": "1234"
+            }
           }
         }
       },
       {
         "type": "subtitle",
-        "text": "Características"
+        "text": "Descrição do produto"
       },
       {
-        "type": "markdown",
-        "text": "TODO"
-      },
-      {
-        "type": "subtitle",
-        "text": "Especificação"
-      },
-      {
-        "type": "markdown",
-        "text": "TODO"
+        "type": "markdown_text",
+        "text": "Dinheiro não compra felicidade, mas compra blusa com capuz, que é a mesma coisa. Referência do mais absoluto conforto, esta blusa com capuz adidas exibe um logo Trefoil em cor sólida. O bolso canguru mantém o corpo aquecido nos dias frios."
       },
       {
         "type": "subtitle",
         "text": "Dimensões"
       },
       {
-        "type": "markdown",
-        "text": "TODO"
+        "type": "markdown_text",
+        "text": "Dinheiro não compra felicidade, mas compra blusa com capuz, que é a mesma coisa. Referência do mais absoluto conforto, esta blusa com capuz adidas exibe um logo Trefoil em cor sólida. O bolso canguru mantém o corpo aquecido nos dias frios."
       }
     ]
   }

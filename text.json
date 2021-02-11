@@ -1,0 +1,39 @@
+{
+    "components":
+    [
+        {
+            "type": "title_x_Large",
+            "text": "Blusa Capuz Trefoil Medium Grey Heather / White"
+          },
+          {
+            "type": "title_large",
+            "text": "Blusa Capuz Trefoil Medium Grey Heather / White"
+          },
+          {
+            "type": "title_medium",
+            "text": "Blusa Capuz Trefoil Medium Grey Heather / White"
+          },
+          {
+            "type": "title_small",
+            "text": "Blusa Capuz Trefoil Medium Grey Heather / White"
+          },
+          {
+            "type": "body_primary_default",
+            "text": "Blusa Capuz Trefoil Medium Grey Heather / White"
+          },
+          {
+            "type": "body_primary_highlight",
+            "text": "Blusa Capuz Trefoil Medium Grey Heather / White"
+          },
+          {
+            "type": "body_secondary_default",
+            "text": "Blusa Capuz Trefoil Medium Grey Heather / White"
+          },
+          {
+            "type": "body_secondary_highlight",
+            "text": "Blusa Capuz Trefoil Medium Grey Heather / White"
+          }
+
+    ]
+
+}

@@ -8,7 +8,7 @@
       "type": "store_header",
       "title": "Adidas",
       "banner": "banner.png",
-      "avatar": "avatar.png",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jEb68kphsO_wHL7g_xrWBzoBwfTCX8DRyw&usqp=CAU",
       "is_favorite": false,
       "action": {
         "type": "favorite",

@@ -13,28 +13,118 @@
         "type": "product_card_item",
         "items": [
           {
-            "avatar": "avatar_produto.png",
+            "avatar": "https://cdn.picpay.com/store/assets/marketplace/sellers/icons/ic_truck.png",
             "spotlight": "Sedex",
             "value": "R$ 15,00",
             "description": "Prazo de entrega 5 dias úteis",
             "action": {
               "property": {
-                "type": "payment",
                 "external_data": [
                   {
-                    "key": "shipping_id",
-                    "value": "1234"
+                    "key": "credit_card_last_digits",
+                    "value": "444"
                   }
                 ],
                 "payment": {
-                  "description": "Bluza capuz trefoil",
-                  "disclaimer": "TODO",
+                  "description": "Loja Adidas",
+                  "disclaimer": "**Confira antes de pagar**<BR><BR>**Tamanho:** GG<BR><BR>**Vendido e entregue por**: Adidas<BR><BR>**Endereço de entrega:** Avenida Dom Jaime<BR>de Barros Câmara, 565 - SBC - SP<BR>CEP 02441-090<BR><BR>**Entrega**: 5 dias úteis (Sedex). Prazo começa a contar a partir da confirmação de pagamento.<BR><BR>**Frete:** R$15,00 ",
                   "info_url": "https://cdn.picpay.com/picpay/sellers/ifood-terms.html",
-                  "logo_url": "https://s3.amazonaws.com/cdn.picpay.com/picpay/sellers/ifood-logo.png",
+                  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jEb68kphsO_wHL7g_xrWBzoBwfTCX8DRyw&usqp=CAU",
                   "store_id": "2",
-                  "value": "314.0"
+                  "value": "200.0"
                 }
-              }
+              },
+              "type": "payment"
+            }
+          }
+        ]
+      },
+      {
+        "type": "product_card_item",
+        "items": [
+          {
+            "avatar": "https://cdn.picpay.com/store/assets/marketplace/sellers/icons/ic_truck.png",
+            "spotlight": "Comum",
+            "value": "R$ 8,00",
+            "description": "Prazo de entrega 8 dias úteis",
+            "action": {
+              "property": {
+                "external_data": [
+                  {
+                    "key": "credit_card_last_digits",
+                    "value": "444"
+                  }
+                ],
+                "payment": {
+                  "description": "Loja Adidas",
+                  "disclaimer": "**Confira antes de pagar**<BR><BR>**Tamanho:** GG<BR><BR>**Vendido e entregue por**: Adidas<BR><BR>**Endereço de entrega:** Avenida Dom Jaime<BR>de Barros Câmara, 565 - SBC - SP<BR>CEP 02441-090<BR><BR>**Entrega**: 5 dias úteis (Sedex). Prazo começa a contar a partir da confirmação de pagamento.<BR><BR>**Frete:** R$15,00 ",
+                  "info_url": "https://cdn.picpay.com/picpay/sellers/ifood-terms.html",
+                  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jEb68kphsO_wHL7g_xrWBzoBwfTCX8DRyw&usqp=CAU",
+                  "store_id": "2",
+                  "value": "200.0"
+                }
+              },
+              "type": "payment"
+            }
+          }
+        ]
+      },
+      {
+        "type": "product_card_item",
+        "items": [
+          {
+            "avatar": "https://cdn.picpay.com/store/assets/marketplace/sellers/icons/ic_truck.png",
+            "spotlight": "Fedex",
+            "value": "R$ 20,00",
+            "description": "Prazo de entrega 2 dias úteis",
+            "action": {
+              "property": {
+                "external_data": [
+                  {
+                    "key": "credit_card_last_digits",
+                    "value": "444"
+                  }
+                ],
+                "payment": {
+                  "description": "Loja Adidas",
+                  "disclaimer": "**Confira antes de pagar**<BR><BR>**Tamanho:** GG<BR><BR>**Vendido e entregue por**: Adidas<BR><BR>**Endereço de entrega:** Avenida Dom Jaime<BR>de Barros Câmara, 565 - SBC - SP<BR>CEP 02441-090<BR><BR>**Entrega**: 5 dias úteis (Sedex). Prazo começa a contar a partir da confirmação de pagamento.<BR><BR>**Frete:** R$15,00 ",
+                  "info_url": "https://cdn.picpay.com/picpay/sellers/ifood-terms.html",
+                  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jEb68kphsO_wHL7g_xrWBzoBwfTCX8DRyw&usqp=CAU",
+                  "store_id": "2",
+                  "value": "200.0"
+                }
+              },
+              "type": "payment"
+            }
+          }
+        ]
+      },
+      {
+        "type": "product_card_item",
+        "items": [
+          {
+            "avatar": "https://cdn.picpay.com/store/assets/marketplace/sellers/icons/ic_truck.png",
+            "spotlight": "DHL",
+            "value": "R$ 20,00",
+            "description": "Prazo de entrega 3 dias úteis",
+            "action": {
+              "property": {
+                "external_data": [
+                  {
+                    "key": "credit_card_last_digits",
+                    "value": "444"
+                  }
+                ],
+                "payment": {
+                  "description": "Loja Adidas",
+                  "disclaimer": "**Confira antes de pagar**<BR><BR>**Tamanho:** GG<BR><BR>**Vendido e entregue por**: Adidas<BR><BR>**Endereço de entrega:** Avenida Dom Jaime<BR>de Barros Câmara, 565 - SBC - SP<BR>CEP 02441-090<BR><BR>**Entrega**: 5 dias úteis (Sedex). Prazo começa a contar a partir da confirmação de pagamento.<BR><BR>**Frete:** R$15,00 ",
+                  "info_url": "https://cdn.picpay.com/picpay/sellers/ifood-terms.html",
+                  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jEb68kphsO_wHL7g_xrWBzoBwfTCX8DRyw&usqp=CAU",
+                  "store_id": "2",
+                  "value": "200.0"
+                }
+              },
+              "type": "payment"
             }
           }
         ]
